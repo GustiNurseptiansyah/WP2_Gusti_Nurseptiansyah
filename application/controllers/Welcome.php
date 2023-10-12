@@ -20,6 +20,6 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('View_latihan1.php');
+		$this->load->view('Home.php');
 	}
 }
